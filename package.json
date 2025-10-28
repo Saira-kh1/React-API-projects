@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Saira-kh1/React-API",
+  "homepage": "https://Saira-kh1.github.com/React-API-projects",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
